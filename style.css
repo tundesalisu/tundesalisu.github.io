@@ -21,7 +21,7 @@ body {
   padding: 20px;
   text-align: center;
   margin: auto;
-}
+}s
 
 #figure{
   position: relative;
@@ -44,6 +44,11 @@ body {
   left:2%;
   bottom: -5%;
   font-size: 18px;
+}
+
+#bio-image{
+  width: 200px;
+  height: 200px;
 }
 
 
